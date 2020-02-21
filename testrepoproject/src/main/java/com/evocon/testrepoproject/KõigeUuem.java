@@ -1,5 +1,5 @@
 package com.evocon.testrepoproject;
 
-public class Uus {
+public class KõigeUuem {
 
 }
